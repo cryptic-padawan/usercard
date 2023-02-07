@@ -13,5 +13,15 @@ Creating a web application using create-react-app. The application should have f
 
 ![REACT](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## Method to solve the Task
+
+1. A simple single-page website which changes it's body content after pressing the "Get User" button.
+2. Hooks are not being used.
+3. A simple static API call is being made.
+
+## Live Demo
+
+Live Website: https://user-card-layout.netlify.app/
+
 ## Tiem Taken
 5 Hours
